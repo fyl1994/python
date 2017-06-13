@@ -9,6 +9,7 @@ sudo apt install python3.4
 pip install openpyxl
 
 3.使用:
-python3 sony_excel_rel_v1.py 
+将脚本tools文件夹放在MTK_NV_Daily同级目录下.之后执行脚本即可.
+python3 sony_excel_rel_v1.py
 之后根据提示输入即可
 源代码可以自行修改
